@@ -71,7 +71,7 @@ public class RequeteSEBATRAP implements Requete, Serializable
         System.out.println("Je vais m'occuper du client : " + numClient + " avec la carte : " + numCarte);
         
         boolean ok = false;
-        BeanBDMySQL BBMS = new BeanBDMySQL("localhost", "3306", "jim", "root", "BD_AIRPORT");
+        BeanBDMySQL BBMS = new BeanBDMySQL("localhost", "3306", "tusset", "123soleil", "BD_AIRPORT");
         
         try
         {
