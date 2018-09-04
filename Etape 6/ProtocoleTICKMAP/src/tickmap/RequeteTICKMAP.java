@@ -1270,10 +1270,4 @@ public class RequeteTICKMAP implements Requete, Serializable
     {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-
-    @Override
-    public Runnable createRunnableSEBATRAP(Socket s, ConsoleServeur cs)
-    {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 }
